@@ -1,0 +1,105 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nyt/global/}
+  \entry{Laplace:1814vc}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LPS}{%
+         family={Laplace},
+         familyi={L\bibinitperiod},
+         given={Pierre\bibnamedelima Simon},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LPS1}
+    \strng{fullhash}{LPS1}
+    \field{labelnamesource}{author}
+    \field{labelyear}{1814}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{year}{1814}
+  \endentry
+
+  \entry{Reference1}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LPS}{%
+         family={Laplace},
+         familyi={L\bibinitperiod},
+         given={Pierre\bibnamedelima Simon},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LPS1}
+    \strng{fullhash}{LPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{A philosophical essay on probabilities}
+    \field{year}{2001}
+  \endentry
+
+  \entry{xkcd}{online}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Munroe},
+         familyi={M\bibinitperiod},
+         given={Randall},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{XKCD - A webcomic of romance, sarcasm, math, and language}
+    \verb{url}
+    \verb http://web.archive.org/web/20080207010024/https://xkcd.com
+    \endverb
+    \field{year}{1999}
+    \field{urlday}{30}
+    \field{urlmonth}{01}
+    \field{urlyear}{2042}
+  \endentry
+
+  \entry{chicken2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZD}{%
+         family={Zongker},
+         familyi={Z\bibinitperiod},
+         given={Doug},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZD1}
+    \strng{fullhash}{ZD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Chicken Chicken Chicken: Chicken Chicken}
+    \field{journaltitle}{American Association for the Advancements of Science}
+    \field{year}{2007}
+  \endentry
+\endsortlist
+\endinput
