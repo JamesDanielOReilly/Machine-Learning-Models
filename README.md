@@ -1,5 +1,4 @@
-First Machine Learning Coursework for which I received a grade of 85%. The final report and code (.ipynb) is included. My main contributions are
-the sections focusing on:
+First Machine Learning Coursework for which I received a grade of 85%. The final report and code (.ipynb) is included. My main contributions to the report are the sections focusing on:
 - conjugate priors
 - Gaussian processes
 - graphical models
